@@ -1,0 +1,30 @@
+TEAM-4 TECHDUDES
+Software Requirements Specification!!
+
+#INTRODUCTION
+
+Welcome to our exciting project! In this endeavor, we will be creating an eCommerce web page. Our aim is to make a beautiful webpage based on digital marketing and online shopping, and throughout the process, we'll be leveraging VS code and online websites.
+
+#TEAM MEMBERS AND THEIR ROLES :
+
+      JANANI MP          	-TEAM LEADER
+	HEMALATHA M   	        -DEVELOPER
+	KAAMYA R                -DEVELOPER
+	INFANT ASHIL   A        -DESIGNER
+	MADHAN KUMAR GP         -DESIGNER
+	KEERTHIKA R             -BUSINESS ANALYST
+	NARESH KUMAR M          -BUSINESS ANALYST
+	MRIDULA G               -TESTER
+
+#PROJECT OUTLINE:
+
+An e-commerce page to showcase three products of our clients.
+Clients who is in need of wired headphone, a neckband and a tws earphone can use our website.
+Each product with an image, a title, price and description.
+Applying CSS for styling them and making the page visually appealing.
+
+
+
+
+
+
